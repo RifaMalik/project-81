@@ -1,0 +1,15 @@
+h1{
+    color:red;
+    font-size: 40px;
+    font-style: oblique;
+}
+.body_background{
+    background-image: url("images.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#mycanvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
